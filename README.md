@@ -16,4 +16,3 @@ This Android app demonstrates how to fetch and display the user's current locati
   ## Screenshots:
   ![Screenshot 2025-04-07 224243](https://github.com/user-attachments/assets/8b1ad44e-cd56-492f-b3b9-5d316a5ca1aa)
   ![Screenshot 2025-04-07 223357](https://github.com/user-attachments/assets/0be4038e-5f80-4ca1-b347-3607768dfe95)
-  ![Screenshot 2025-04-08 015818](https://github.com/user-attachments/assets/a775fcfb-a86b-4079-bd4b-2aa2befb0a46)
